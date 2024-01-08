@@ -1,0 +1,27 @@
+nav{
+    background-color: #fff;
+    width:100%;
+    height:auto;
+    max-width: 100%;
+    border-radius: 0px;
+}
+
+
+nav a{
+    color:rgb(168,44,72) !important;
+    font-size:20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+ nav #call{
+    background-color: rgb(168,44,72) ;
+    border:2px solid rgb(168,44,72);
+    color:#fff !important ;
+}
+nav #call:hover{
+    background-color:transparent ;
+   
+    transition: .2s ease-in-out;
+    color:rgb(168,44,72) !important;
+
+}

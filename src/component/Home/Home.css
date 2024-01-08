@@ -1,0 +1,35 @@
+.number{
+    
+    background-color: rgb(168,44,72) ;
+    color:#fff;
+    text-align:center;
+    padding:20px;
+
+}
+
+ .secondSection
+{
+    max-width: 100%;
+    height:auto;
+    overflow:hidden;
+    margin-top:50px;
+    border-radius:20px;
+}
+.one
+{max-width: 100%;}
+.secondSection .par
+{
+    margin-top:80px;
+}
+
+.secondSection button
+{
+    background-color: rgb(168,44,72) ;
+
+    padding:15px;
+    border:none;
+    outline:none;
+    color:white;
+    font-weight: bold;
+ }
+ 

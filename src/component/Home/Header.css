@@ -1,0 +1,30 @@
+header{
+    color:rgb(67,18,29) ;
+    
+    background:url('./../../img/01.jpg') center no-repeat;
+    background-size:cover;
+    width:100%;
+    text-align:left;
+    height:550px;
+    overflow: hidden;
+    font-size: 20px;
+    
+}
+header h2{
+    margin-top:80px;
+    font-size:40px ;
+}
+header button {
+    background-color: rgb(168,44,72) ;
+    text-align:center;
+    color:white;
+    border:1px solid rgb(168,44,72);
+    margin:10px ;
+    font-weight: bold;
+    padding:5px;
+    text-transform: uppercase;
+}
+header .second{
+    background-color: transparent ;
+    color:rgb(67,18,29) ;
+}
